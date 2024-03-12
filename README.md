@@ -10,9 +10,9 @@
 <div align="center">
  
     
- 💡 Habilidades em destaque: **Java, Spring Framework, MySQL**
+ 💡 Habilidades em destaque: **Java, Spring Framework, MySQL, API RESTful**
 
-💬 Pergunte-me sobre: **Java, Spring Boot... ou oque desejar. [Aqui](https://github.com/CarlosSoft04/CarlosSoft04/issues)**
+💬 Pergunte-me sobre: **Java, Spring Boot... ou oque desejar.**
 
 💻 **Amante** da tecnologia e em constante aprendizado.
 
