@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,react,c,cpp,python" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,c,cpp,python" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,postman,arduino"
 </div>
 
