@@ -3,14 +3,14 @@
     Olá! Eu sou o Carlos Rios. 👋
 </h1>
 
-<h3 align="center">Engenheiro de Software e Técnico em Desenvolvimento de Sistemas</h3>
+<h3 align="center">Técnico em Desenvolvimento de Sistemas e estudante Engenharia de Software</h3>
 
 <br/>
 
 <div align="center">
  
     
- 💡 Habilidades em destaque: **Java, Spring Framework, MySQL, API RESTful**
+ 💡 Habilidades em destaque: **Java, Spring Framework, MySQL**
 
 💬 Pergunte-me sobre: **Java, Spring Boot... ou oque desejar.**
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,c,cpp,python" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,postman,arduino"
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,postman"
 </div>
 
 <br/>
