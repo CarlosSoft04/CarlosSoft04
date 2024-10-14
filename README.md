@@ -12,7 +12,7 @@
     
  💡 Habilidades em destaque: **Java, Spring Framework, MySQL**
 
-💬 Pergunte-me sobre: **Java, Spring Boot... ou oque desejar.**
+💬 Aqui você encontrará os meus projetos pessoais e acadêmicos
 
 💻 **Amante** da tecnologia e em constante aprendizado.
 
