@@ -8,20 +8,11 @@
 <br/>
 
 <div align="center">
- 
-    
- 💡 Habilidades em destaque: **Java, Spring Framework, MySQL**
-
-💬 Aqui você encontrará os meus projetos pessoais e acadêmicos
-
-💻 **Amante** da tecnologia e em constante aprendizado.
+💻 **Acompanhe alguns projetos pessoais e acadêmicos no meu repositório!** 
 
  </div>
  
 <div align="center"> 
-  <a href="https://www.hackerrank.com/profile/carlostechsoftw1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/carlosrios04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
