@@ -24,7 +24,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,python" alt="Skills"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,postman" alt="Ferramentas"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,postman"/>
 </div>
 
 <br/>
