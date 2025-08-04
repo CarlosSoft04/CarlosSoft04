@@ -1,5 +1,5 @@
 <h1 align="center">
-    👋 Salve! Me chamo <span style="color: #2e8b57;">Carlos Rios</span>.
+    👋<span style="color: #2e8b57;">Carlos Rios</span>.
 </h1>
 
 <h2 align="center" style="font-weight: 400;">Técnico em Desenvolvimento de Sistemas e Estudante de Engenharia de Software</h2>
